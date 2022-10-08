@@ -22,12 +22,13 @@ function Card (props) {
     })
    }
  </ul>
- 
+ <div></div>
  <div class="d-flex justify-content-center" ><button href="#" className="btn btn-block btn-primary text-uppercase d-inline-flex ">Button</button></div>
          </div>
      </div>
  </div>
     </>
+    
   }
 
   export default Card;
